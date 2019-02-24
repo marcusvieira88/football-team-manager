@@ -5,4 +5,4 @@ This project will help teams to manage the information about theirs statistics
 
 [![Build](https://travis-ci.com/marcusvieira88/football-team-manager.svg?branch=master)](https://travis-ci.com/marcusvieira88/football-team-manager)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/marcusvieira88/football-team-manager/badge.svg)](https://snyk.io/test/github/marcusvieira88/football-team-manager)
+[![Known Vulnerabilities](https://snyk.io/test/github/marcusvieira88/football-team-manager/badge.svg)](https://snyk.io/test/github/marcusvieira88/football-team-manager) 
