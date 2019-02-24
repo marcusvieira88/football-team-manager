@@ -1,10 +1,22 @@
 {
   "name": "FootballTeamManager",
+  "author": "Marcus Vieira",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusvieira88/football-team-manager.git"
+  },
+  "keywords": [
+    "react-native",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/marcusvieira88/football-team-manager/issues"
   },
   "dependencies": {
     "react": "16.6.3",
